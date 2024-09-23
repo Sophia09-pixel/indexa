@@ -1,4 +1,5 @@
 # Indexa
+![image](https://github.com/user-attachments/assets/799aba9e-999d-45e7-9a9c-96a6575580ad)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
